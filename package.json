@@ -2,12 +2,18 @@
   "name": "uwutasks",
   "type": "module",
   "version": "0.0.1",
+  "description": "A minimal and efficient task management application.",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Juudini/uwutasks.git"
   },
   "dependencies": {
     "astro": "^4.15.6",
